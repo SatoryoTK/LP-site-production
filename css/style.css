@@ -1,0 +1,77 @@
+.header{
+  width:100%;
+  height:5%;
+}
+
+.navi-logo{
+  width:10%;
+  height:10%
+}
+
+.navi{
+  display:flex;
+  justify-content: space-between;
+  margin:5px 15px 3px;
+}
+
+.navi-contents{
+  font-size:100%;
+  margin-top:1.3%;
+}
+
+.navi-contents-item{
+  text-decoration: none;
+  color:grey;
+  padding:0 5px;
+}
+
+.main-content{
+  position:relative;
+}
+
+.main-content-text{
+  position: absolute;
+  top: 120px;
+  left: 10%;
+  color:#b33e5c;
+}
+
+.main-content-maintext{
+  font-size:70px;
+  font-family: 'Gaegu', cursive;
+  font-weight: 800;
+}
+
+.main-content-growth{
+  color:#b0c4de;
+}
+
+.main-content-subtext1{
+  margin-top:10px;
+  font-size:20px;
+  font-family: 'Gaegu', cursive;
+}
+
+.main-content-subtext2{
+  line-height:20px;
+  margin-top:5px;
+}
+
+.subtext1-growth{
+  color:#b0c4de;
+}
+
+.main-picture{
+  position:absolute;
+  right:0;
+}
+
+.copyright{
+  background-color: #e6e6e6;
+  width:100%;
+  height:30px;
+  text-align: center;
+  padding:10px 0 0 0 ;
+  color:gray;
+}
+
