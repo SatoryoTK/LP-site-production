@@ -469,8 +469,7 @@ table td{
 
 .recruitinterview{
   display: flex;
-  justify-content: space-between;
-  width: 100%;
+  justify-content: space-evenly;
   margin-bottom: 70px;
 }
 
@@ -487,8 +486,8 @@ table td{
   font-size: 25px;
 }
 
-.recruit-picture{
-  width: 100%;
+.recruit-picture {
+  width:50vw;
 }
 
 .interview{
@@ -504,8 +503,8 @@ table td{
   font-size: 25px;
 }
 
-.interview-picture{
-  width:100%;
+.interview-picture {
+  width:50vw;
 }
 
 .mail{
